@@ -1,0 +1,9 @@
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\bin\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.deps.json
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\bin\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.dll
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.csprojAssemblyReference.cache
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.AssemblyInfoInputs.cache
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.AssemblyInfo.cs
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\bin\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.pdb
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.dll
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.pdb
+C:\Users\HomePC\source\repos\GeekBrains.Lesson8.Data\obj\Debug\netcoreapp3.1\GeekBrains.Lesson8.Data.csproj.CoreCompileInputs.cache
