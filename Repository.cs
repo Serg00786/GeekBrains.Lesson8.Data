@@ -12,7 +12,9 @@ namespace GeekBrains.Lesson8.Data
     {
         Task<List<ListOfStudentDTO>> GetStudents();
     }
-
+    /// <summary>
+    /// 
+    /// </summary>
     public class Repository : IRepository
     {
         public async Task<List<ListOfStudentDTO>> GetStudents()
